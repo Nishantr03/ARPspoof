@@ -120,7 +120,7 @@ def open_Toplevel2():
 root = Tk()
 root.configure(background="#0e0d30")
 root.title("Minimalistic Tool")
-root.geometry("520x300")
+root.geometry("600x500")
 
 # Background Image
 background_image = ImageTk.PhotoImage(file='imagess.jfif')
